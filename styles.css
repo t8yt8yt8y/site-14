@@ -244,3 +244,6 @@ body {
 .poison-gallery img{width:100%;height:auto;display:block;border-radius:12px}
 .poison-gallery figcaption{margin-top:.6rem;line-height:1.5;opacity:.95}
 .poison-gallery .poison-meta{font-size:.9rem;opacity:.8}
+
+.poison-gallery .poison-title{margin:0 0 .4rem;font-size:1.6rem;line-height:1.2}
+.poison-gallery .poison-intro{margin:0 0 1.25rem;opacity:.9;max-width:70ch}
